@@ -14,7 +14,7 @@ Before contributing, make sure you have the project set up locally. See the [REA
 
 ### Reporting Bugs
 
-If you find a bug, please [open an issue](/issues/new) and include:
+If you find a bug, please open an issue and include:
 
 - A clear, descriptive title
 - Steps to reproduce the problem
@@ -25,7 +25,7 @@ Before opening a new issue, please check whether one already exists for the prob
 
 ### Suggesting Features
 
-Feature suggestions are welcome. Please [open an issue](/issues/new) and include:
+Feature suggestions are welcome. Please open an issue and include:
 
 - A clear, descriptive title
 - A detailed description of the proposed feature and the problem it solves
@@ -41,7 +41,7 @@ Feature suggestions are welcome. Please [open an issue](/issues/new) and include
 
 2. Make your changes and ensure the project still builds and any tests pass.
 3. Commit your changes following the [commit message guidelines](#commit-messages) below.
-4. Push your branch and [open a pull request](/pulls) against `main`.
+4. Push your branch and open a pull request against `main`.
 5. A maintainer will review your pull request. Please be responsive to any feedback.
 
 Pull requests that introduce large or breaking changes should be discussed in an issue first.
